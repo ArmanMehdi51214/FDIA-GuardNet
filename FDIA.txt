@@ -1,0 +1,10 @@
+I need help developing a python framework to detect False Data Injection Attacks in power systems using hybrid deep learning. The project will focus on the IEEE 30-bus system as the primary testbed and should be scalable to larger systems.
+
+Scope of work
+- Develop a python framework for FDIA detection.
+- Implement the framework using hybrid CNN–Transformer–BiLSTM model.
+- Test on IEEE 30-bus system with scalability for larger systems.
+
+Additional information
+This project requires deep knowledge of both power systems and advanced machine learning techniques.
+
