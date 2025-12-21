@@ -1,0 +1,22 @@
+{
+  "sample_id": 16,
+  "attack": "multi_bus",
+  "label": 1,
+  "attack_meta": {
+    "attack_name": "multi_bus_fdia",
+    "attacked": true,
+    "target_buses": [
+      8,
+      14,
+      15,
+      20,
+      27
+    ],
+    "target_lines": null,
+    "strength": 0.05,
+    "extra": {
+      "num_target_buses": 5,
+      "coordinated": true
+    }
+  }
+}
