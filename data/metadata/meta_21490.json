@@ -1,0 +1,16 @@
+{
+  "sample_id": 21490,
+  "attack": "random",
+  "label": 1,
+  "attack_meta": {
+    "attack_name": "random_fdia",
+    "attacked": true,
+    "target_buses": null,
+    "target_lines": null,
+    "strength": 0.05,
+    "extra": {
+      "attack_ratio": 0.1,
+      "num_corrupted_entries": 18
+    }
+  }
+}

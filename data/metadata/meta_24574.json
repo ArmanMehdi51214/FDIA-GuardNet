@@ -1,0 +1,20 @@
+{
+  "sample_id": 24574,
+  "attack": "load_shift",
+  "label": 1,
+  "attack_meta": {
+    "attack_name": "load_shift_fdia",
+    "attacked": true,
+    "target_buses": [
+      29,
+      24,
+      22
+    ],
+    "target_lines": null,
+    "strength": 0.1,
+    "extra": {
+      "num_target_buses": 3,
+      "balanced": true
+    }
+  }
+}

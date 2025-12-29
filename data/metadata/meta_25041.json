@@ -1,0 +1,21 @@
+{
+  "sample_id": 25041,
+  "attack": "stealthy",
+  "label": 1,
+  "attack_meta": {
+    "attack_name": "stealthy_fdia",
+    "attacked": true,
+    "target_buses": [
+      26,
+      23,
+      9
+    ],
+    "target_lines": null,
+    "strength": 0.05,
+    "extra": {
+      "num_target_buses": 3,
+      "correlated": true,
+      "stealthy": true
+    }
+  }
+}
